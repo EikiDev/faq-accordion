@@ -30,8 +30,8 @@ Usuários devem ser capazes de:
 
 ### Links
 
-- Solução no Frontend Mentor: [Add solution URL here](https://your-solution-url.com)
-- Site: [Add live site URL here](https://your-live-site-url.com)
+- Solução no Frontend Mentor: [https://www.frontendmentor.io/solutions/faq-accordion-using-html-css-flexbox-grid-js-lxIuVNmas5](https://www.frontendmentor.io/solutions/faq-accordion-using-html-css-flexbox-grid-js-lxIuVNmas5)
+- Site: [https://eikidev.github.io/faq-accordion/](https://eikidev.github.io/faq-accordion/)
 
 ## Processo
 
