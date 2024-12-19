@@ -1,0 +1,29 @@
+@media (max-width: 992px) {
+    main {
+        background-image: url(../../assets/images/background-pattern-mobile.svg);
+    }
+}
+
+@media (max-width: 576px) {
+
+    body {
+        font-size: 12px;
+    }
+
+    .title {
+        font-size: 30px;
+    }
+
+    .title::before {
+        width: 28px;
+        height: 28px;
+    }
+
+    .question-container {
+        padding: 8px 0;
+    }
+
+    .answer {
+        line-height: 18px;
+    }
+}
